@@ -3,13 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?color=434d58&style=flat&logo=Telegram)](https://t.me/artemmarin91)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?color=434d58&style=flat&logo=Gmail&logoColor=white)](mailto:artelis57@mail.com)
 
-- I’m currently learning **ReactJS, Redux**
-
-- My projects are available [**here**](https://github.com/artem-mar?tab=repositories)
-
-- My CV: [**Hexlet**](https://cv.hexlet.io/resumes/1059)
-
-- I am looking for a job, ready to relocate or work remotely
+- I’m currently working at DeepPavlov.ai
 
 # 
 
